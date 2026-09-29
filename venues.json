@@ -1,0 +1,1273 @@
+{
+  "checked": "2026-09-29",
+  "scope": "Tokyo small live music spaces",
+  "venues": [
+    {
+      "id": 1,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "LiveSpace 早稲田 RiNen",
+      "station": "도쿄메트로 와세다 1번 출구 30초",
+      "route": "와세다역 → 도보 약 1–3분",
+      "type": "라이브하우스·참여형",
+      "genres": "싱어송라이터 / 포크 / 실험음악 / 밴드",
+      "fit": 3,
+      "capacity": "테이블 포함 40석 · 의자만 50석 · 스탠딩 100명",
+      "times": "공연·참여 행사 다수. 보통 18:30–19:00 OPEN / 19:00–19:30 START",
+      "price": "일반 공연 예 ¥2,500–3,000 + D. 정기 참여 행사 예 ¥1,000–1,500 + D",
+      "participation": "오픈마이크·세션 확인; 정기 행사 일부 예약 불필요. 일반 출연·대관 문의 가능",
+      "solo": "처음에는 감상만 가능한 참여 행사가 편리",
+      "exchange": "높음: 정기 참여 행사와 공연 뒤 바 이용 구조",
+      "status": "A",
+      "evidence": "공식 2026년 9–11월 일정 및 정기 행사·시설 안내",
+      "links": [
+        {
+          "label": "공식·시설",
+          "url": "https://www.waseda-rinen.com/"
+        },
+        {
+          "label": "정기 행사",
+          "url": "https://www.waseda-rinen.com/schedule"
+        },
+        {
+          "label": "공식 월별 일정",
+          "url": "https://blog.livedoor.jp/wasedarinenblog/"
+        }
+      ],
+      "notes": "기타 노래를 원하면 행사명을 확인. Experimental Session은 일반 포크 오픈마이크와 성격이 다르다."
+    },
+    {
+      "id": 2,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "真昼の月 夜の太陽",
+      "station": "히가시신주쿠 2분 / 신오쿠보 8분",
+      "route": "신주쿠 → 도보 약 17–25분 또는 지하철 이용",
+      "type": "어쿠스틱 라이브하우스",
+      "genres": "싱어송라이터 / 피아노·기타 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "9월 다수 공연. 평일 18:00–18:15 / 18:30–18:45, 주말 낮 공연도 있음",
+      "price": "보통 예 ¥2,300–3,000 + D; 특별 공연 ¥4,000 이상",
+      "participation": "일반 출연은 공식 문의. 공개 오픈마이크 정기 운영은 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "종연 후 대화 가능성은 있으나 행사·출연자에 따라 다름",
+      "status": "A",
+      "evidence": "공식 2026년 9월 월간 일정",
+      "links": [
+        {
+          "label": "공식·오시는 길",
+          "url": "https://mahiru-yoru.com/"
+        },
+        {
+          "label": "공연 일정",
+          "url": "https://mahiru-yoru.com/schedule/"
+        }
+      ],
+      "notes": "그랜드피아노를 갖춘 공간. 현대 일본 싱어송라이터 합동 공연을 살피기 좋다."
+    },
+    {
+      "id": 3,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "新宿 SACT!",
+      "station": "히가시신주쿠 약 3분 / 신주쿠 동쪽 약 10분",
+      "route": "신주쿠 → 도보 약 10–20분",
+      "type": "라이브하우스",
+      "genres": "어쿠스틱 / 팝 / 재즈·펑크 세션",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "월간 공연 다수. 예 18:30 / 19:00 또는 19:00 / 19:30",
+      "price": "공연 예 ¥2,500–3,900 + D ¥600",
+      "participation": "출연 모집: 2곡 이상 음원·영상과 소개 자료 제출. 공개 세션 공고도 있음",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "세션 날 높음; 일반 공연은 행사별",
+      "status": "A",
+      "evidence": "공식 2026년 일정·출연 모집 안내",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://shinjuku-sact.com/index"
+        },
+        {
+          "label": "공연 일정",
+          "url": "https://shinjuku-sact.com/schedule"
+        },
+        {
+          "label": "출연·대관",
+          "url": "https://shinjuku-sact.com/about"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "Live & Bar Ruto",
+      "station": "신주쿠교엔마에 / 요쓰야산초메 약 6분",
+      "route": "신주쿠 → 마루노우치선 + 도보 약 15–25분",
+      "type": "라이브바",
+      "genres": "포크 / 블루스 / 어쿠스틱",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "행사별 운영. 당월 OPEN/START는 문의 필요",
+      "price": "드링크 전품 ¥600. 관람료는 공연별; 출연자 참가비 ¥2,500(1D 포함)",
+      "participation": "공식: 오디션·티켓 노르마 없이 출연 가능, 1인 출연비 부과. 대관 가능",
+      "solo": "바 분위기가 편하다면 혼자 방문에 적합",
+      "exchange": "높을 가능성: 작은 바·출연자 참여 구조",
+      "status": "B",
+      "evidence": "공식 운영·출연 조건 확인; 2026년 5월 아티스트 공연 공지로 보완",
+      "links": [
+        {
+          "label": "공식·출연 조건",
+          "url": "https://ruto.sa-kon.net/"
+        },
+        {
+          "label": "2026 공연 근거",
+          "url": "https://artist.aremond.com/thebottomoftheocean/schedule/detail/index/121149"
+        }
+      ],
+      "notes": "‘노르마 없음’은 무료 출연을 뜻하지 않는다. 흡연·20세 미만 입장 제한 안내가 있으므로 방문 조건 확인."
+    },
+    {
+      "id": 5,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "大久保 HOTSHOT",
+      "station": "오쿠보 약 1분 / 신오쿠보 약 3분",
+      "route": "신주쿠 → JR 오쿠보 + 도보 약 10–20분",
+      "type": "라이브하우스·세션",
+      "genres": "블루스 / 록 / 어쿠스틱",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 매주 월요일 블루스 세션. 공연 OPEN/START는 행사별",
+      "price": "공연·세션별 공지 확인; 통일 가격 미확인",
+      "participation": "월요일 블루스 세션·일반 출연 모집 확인",
+      "solo": "세션은 견학 가능 여부를 먼저 확인하면 편리",
+      "exchange": "세션 날 높음",
+      "status": "B",
+      "evidence": "공식 정기 세션 안내 검색 확인 + 아티스트 2026년 10월 공연 공지",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://hotshot.tokyo/"
+        },
+        {
+          "label": "10월 17일 공연 근거",
+          "url": "https://hitoshikozai.com/live-support-2026_10_17/"
+        }
+      ],
+      "notes": "공식 본문은 조사 중 접속이 불안정했다. 록 공연과 어쿠스틱 공연을 구분해 선택."
+    },
+    {
+      "id": 6,
+      "region": "신주쿠·오쿠보·와세다",
+      "name": "神楽坂天窓",
+      "station": "이다바시 B3 출구 3분 / JR 서쪽 5분",
+      "route": "와세다 → 도자이선 이다바시 + 도보 약 15–25분",
+      "type": "어쿠스틱 공연장",
+      "genres": "어쿠스틱 / 클래식 / 재즈",
+      "fit": 3,
+      "capacity": "최대 70석 · 공식",
+      "times": "공식 월간 일정 운영. 시간은 개별 공연 확인",
+      "price": "개별 공연별. 드링크·대관은 2025년 12월 개정 공지 확인",
+      "participation": "출연·대관은 공식 폼/LINE 문의. 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "공연 감상 중심; 교류는 행사별",
+      "status": "A",
+      "evidence": "공식 2026년 일정·현재 시설 안내",
+      "links": [
+        {
+          "label": "공식·시설·위치",
+          "url": "https://ten-mado.jp/"
+        },
+        {
+          "label": "공연 일정",
+          "url": "https://ten-mado.jp/schedule/"
+        }
+      ],
+      "notes": "과거 다카다노바바의 ‘四谷天窓’ 주소와 혼동하지 말 것. 10–50명 목표보다 정원은 조금 크다."
+    },
+    {
+      "id": 7,
+      "region": "고엔지·아사가야·나카노",
+      "name": "新高円寺 STAX FRED",
+      "station": "신코엔지 / 우메사토 1초메",
+      "route": "신주쿠 → 마루노우치선 신코엔지 + 도보 약 20–30분",
+      "type": "어쿠스틱 라이브바",
+      "genres": "포크 / 기타 싱어송라이터",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연 빈도 높음. 예 18:30 / 19:00, 단독 19:00 / 19:30",
+      "price": "예 ¥3,000–3,500 + D",
+      "participation": "공식 출연 희망 페이지 있음; 오픈마이크 정기 운영 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높을 가능성: 정기 단독·소수 출연자 공연",
+      "status": "A",
+      "evidence": "공식 2026년 일정·모집 + 아티스트 9월 공연 공지",
+      "links": [
+        {
+          "label": "공식·일정",
+          "url": "https://staxfred.jimdofree.com/"
+        },
+        {
+          "label": "출연 희망",
+          "url": "https://staxfred.jimdofree.com/出演希望の方/"
+        },
+        {
+          "label": "9월 정기 공연 근거",
+          "url": "https://asiasunrise.jp/"
+        }
+      ],
+      "notes": "월례 단독 공연의 회차가 누적되는 구조가 장기 활동이라는 관심에 특히 잘 맞는다."
+    },
+    {
+      "id": 8,
+      "region": "고엔지·아사가야·나카노",
+      "name": "稲生座",
+      "station": "고엔지 북쪽 / 高円寺北 2초메",
+      "route": "신주쿠 → JR 고엔지 + 도보 약 20–30분",
+      "type": "라이브바",
+      "genres": "포크 / 블루스 / 독립 음악",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "화요일 휴무 안내. 19:00 OPEN / 19:30–21:30 LIVE, 이후 바",
+      "price": "일반 예 ¥1,650 + D; 공연에 따라 ¥2,200–3,000 + D",
+      "participation": "출연은 매장 문의; 공개 오픈마이크 정기 운영 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높음 추정: 공연 뒤 21:30–24:00 바 영업 안내",
+      "status": "A",
+      "evidence": "공식 2026년 월간 프로그램·10월 게시 확인",
+      "links": [
+        {
+          "label": "공식 일정 블로그",
+          "url": "https://ameblo.jp/inaoiza/"
+        },
+        {
+          "label": "요금·영업시간 표본",
+          "url": "https://ameblo.jp/inaoiza/entry-12970419718.html"
+        }
+      ],
+      "notes": "티켓 표본은 2026년 7월 공지. 낮은 관람료와 바 영업을 함께 보는 사례."
+    },
+    {
+      "id": 9,
+      "region": "고엔지·아사가야·나카노",
+      "name": "高円寺 楽や",
+      "station": "고엔지 북쪽 / 高円寺北 2-22-6",
+      "route": "신주쿠 → JR 고엔지 + 도보 약 20–30분",
+      "type": "라이브바",
+      "genres": "블루스 / 루츠 / 어쿠스틱",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 평일 19:00 / 19:30, 주말 18:00 / 18:30",
+      "price": "공연별 차지·음식·음료 주문 확인; 팁 공연도 있어 고정 가격화 어려움",
+      "participation": "출연 문의 가능; ‘セッション’ 공연명이 관객 참가 가능함을 뜻하지는 않음",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "바형 공간이라 교류 가능성이 비교적 높음",
+      "status": "B",
+      "evidence": "공식 운영시간·위치 확인; 당월 행사별 조건은 재확인 필요",
+      "links": [
+        {
+          "label": "공식·스케줄",
+          "url": "https://www.luck-ya.com/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "region": "고엔지·아사가야·나카노",
+      "name": "高円寺 JIROKICHI",
+      "station": "고엔지 북쪽 / 高円寺北 2-3-4",
+      "route": "신주쿠 → JR 고엔지 + 도보 약 15–25분",
+      "type": "라이브하우스",
+      "genres": "블루스 / 재즈 / 펑크 / 루츠",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공연 중심 운영. 현재 공연별 OPEN/START 확인",
+      "price": "공식 2026년 4월 표본 ¥3,500 / ¥4,000; 주문 조건은 행사별",
+      "participation": "출연·セッション 참여 조건은 해당 공식 공지 확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "연주 중심; 교류는 프로그램별",
+      "status": "B",
+      "evidence": "공식 2026년 공연 확인, 9월 달력 본문 취득 실패",
+      "links": [
+        {
+          "label": "공식·일정",
+          "url": "https://jirokichi.net/"
+        },
+        {
+          "label": "2026년 공연 표본",
+          "url": "https://jirokichi.net/2026/04/17/25738/"
+        }
+      ],
+      "notes": "어쿠스틱 노래 중심보다 블루스·밴드 연주를 볼 때 적합."
+    },
+    {
+      "id": 11,
+      "region": "고엔지·아사가야·나카노",
+      "name": "阿佐ヶ谷 harness",
+      "station": "아사가야 / 阿佐谷南 2-18-9",
+      "route": "신주쿠 → JR 아사가야 + 도보 약 20–30분",
+      "type": "어쿠스틱 라이브바",
+      "genres": "포크 / 싱어송라이터 / 루츠",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "월례 단독·합동 공연. 예 18:00 / 18:30 또는 19:00 / 19:30",
+      "price": "최근 예 ¥2,500–3,000 + 주문; 특별 공연 ¥4,500 이상",
+      "participation": "출연은 매장 문의; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높을 가능성: 반복 방문·월례 공연 구조",
+      "status": "B",
+      "evidence": "공식 사이트 접속 불가; 아티스트 공식 2026년 9·11월 및 월례 공지 확인",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://livebarharness.web.fc2.com/"
+        },
+        {
+          "label": "9월 공연 근거",
+          "url": "https://www.chihana.org/blank-2"
+        },
+        {
+          "label": "월례 공연 근거",
+          "url": "https://www.komeijihiroya.com/live"
+        }
+      ],
+      "notes": "장기 활동 사례로 유력하지만 방문 날짜는 출연자 공지도 함께 확인."
+    },
+    {
+      "id": 12,
+      "region": "고엔지·아사가야·나카노",
+      "name": "中野 Sweet Rain",
+      "station": "나카노 북쪽 / 中野 5-46-5",
+      "route": "신주쿠 → JR 나카노 + 도보 약 15–25분",
+      "type": "재즈 라이브바",
+      "genres": "재즈 / 즉흥 / 소편성",
+      "fit": 1,
+      "capacity": "공식 수치 미확인",
+      "times": "공연일 운영. 2026년 9월 표본 18:30 / 19:30",
+      "price": "9월 공연 예 ¥4,400(1D 포함)",
+      "participation": "현재 공개 세션·출연 접수 조건 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "소편성 바 공연에서 대화 가능성; 보장 불가",
+      "status": "B",
+      "evidence": "공식 사이트 접속 불가; 출연자 공식 2026년 9월 공연 공지",
+      "links": [
+        {
+          "label": "공식",
+          "url": "http://jazzsweetrain.com/"
+        },
+        {
+          "label": "9월 공연 근거",
+          "url": "https://www.motohikoichino.com/past-schedule/past-schedule-2026"
+        }
+      ],
+      "notes": "일반 기타 弾き語り보다 작은 재즈 생태계 비교 대상으로 수록."
+    },
+    {
+      "id": 13,
+      "region": "고엔지·아사가야·나카노",
+      "name": "ALT_SPEAKER",
+      "station": "노가타 / 野方 5-4-13",
+      "route": "신주쿠(세이부신주쿠) → 노가타 + 도보 약 25–35분",
+      "type": "라이브바·오픈마이크",
+      "genres": "보컬 / 피아노 / 재즈·팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "오픈마이크·세션·공연 프로그램 운영. 시간은 달력 확인",
+      "price": "행사별 요금·드링크 조건 확인",
+      "participation": "공식 오픈마이크·세션·출연/이벤트 모집 확인",
+      "solo": "참여형 행사를 골라 혼자 가기 좋은 후보",
+      "exchange": "높음: 참여자 중심 프로그램",
+      "status": "B",
+      "evidence": "현재 공식 주소·프로그램 확인; 당월 달력 세부 미취득",
+      "links": [
+        {
+          "label": "공식·일정·출연",
+          "url": "https://alt-speaker.com/"
+        }
+      ],
+      "notes": "현재 공식 주소는 노가타. 과거 히가시나카노 정보로 찾아가지 말 것."
+    },
+    {
+      "id": 14,
+      "region": "고엔지·아사가야·나카노",
+      "name": "高円寺 Club ROOTS!",
+      "station": "고엔지 북쪽 약 1분",
+      "route": "신주쿠 → JR 고엔지 + 도보 약 15–25분",
+      "type": "라이브하우스",
+      "genres": "록 / 펑크 / 팝 / 어쿠스틱",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별 운영; 일반 OPEN/START 범위 미확인",
+      "price": "공식 아티스트 2026년 2월 예 ¥3,000 / ¥3,600; D 별도 여부는 해당 공지",
+      "participation": "출연·대관은 매장 문의; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "공연 종류에 따라 다름",
+      "status": "B",
+      "evidence": "공식 상점가 2026년 7월 점포 안내 + 아티스트 공연 근거; 자체 사이트 접속 불안정",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://muribushi.jp/"
+        },
+        {
+          "label": "공식 상점가 소개",
+          "url": "https://koenji-depart.com/shop_info/club-roots/"
+        },
+        {
+          "label": "2026 공연 근거",
+          "url": "https://stoneleek.com/schedule/detail/index/120352"
+        }
+      ],
+      "notes": "일반 밴드 공연과 어쿠스틱 공연을 반드시 구분."
+    },
+    {
+      "id": 15,
+      "region": "오기쿠보·니시오기쿠보",
+      "name": "荻窪 アルカフェ / alcafe",
+      "station": "오기쿠보 남쪽 약 2분",
+      "route": "신주쿠 → JR 오기쿠보 + 도보 약 20–30분",
+      "type": "어쿠스틱 카페·참여형",
+      "genres": "어쿠스틱 / 합창·보컬 / 우쿨렐레",
+      "fit": 3,
+      "capacity": "23석 · 스탠딩 없음 · 공식",
+      "times": "오픈마이크 예 19:00 OPEN / 19:30–22:00. 주말 낮 행사도 있음",
+      "price": "2026년 8월 참여 행사 예 출연 ¥1,500 + D ¥500 / 관람 ¥1,000 + D ¥500",
+      "participation": "오픈마이크·공연 출연 신청 확인; 일반 공연은 심사·상담",
+      "solo": "초보 참여·감상 방문에 좋은 후보",
+      "exchange": "높음: 소수 좌석과 참여형 프로그램",
+      "status": "A",
+      "evidence": "공식 시설·신청 조건 + 운영자 2026년 8–9월 공지",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://alcafe.deca.jp/"
+        },
+        {
+          "label": "운영·좌석",
+          "url": "https://alcafe.deca.jp/setsumei.htm"
+        },
+        {
+          "label": "출연 신청",
+          "url": "https://alcafe.deca.jp/boshuu.htm"
+        },
+        {
+          "label": "최근 참가비 표본",
+          "url": "https://mixi.jp/event/1309348-103011461/"
+        },
+        {
+          "label": "운영자 최근 기록",
+          "url": "https://dannori.hatenablog.com/"
+        }
+      ],
+      "notes": "방음 전제의 큰 음량 공간이 아니다. 오래된 설명 페이지의 요금보다 해당 날짜 공지를 우선."
+    },
+    {
+      "id": 16,
+      "region": "오기쿠보·니시오기쿠보",
+      "name": "西荻窪 ARTRION",
+      "station": "니시오기쿠보 남쪽 약 1분",
+      "route": "신주쿠 → JR 니시오기쿠보 + 도보 약 25–35분",
+      "type": "라이브바·식음 공간",
+      "genres": "기타 싱어송라이터 / 포크",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "월간 공연 다수. 예 18:30 / 19:30, 낮 공연도 있음",
+      "price": "일반 예 ¥2,800–4,000 + D; 특별 공연 ¥5,000. 바·팁 기획은 별도",
+      "participation": "일반 출연·기획은 공식 문의; 정기 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높을 가능성: 식음·바 기획과 음악을 함께 운영",
+      "status": "A",
+      "evidence": "공식 2026년 8·10월 프로그램",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://www.artrion.net/"
+        },
+        {
+          "label": "2026년 10월 일정",
+          "url": "https://www.artrion.net/複製-2026-09-schedule"
+        }
+      ],
+      "notes": "공식 일정 URL의 숫자와 실제 페이지 월이 다를 수 있어 화면의 월 표기를 확인."
+    },
+    {
+      "id": 17,
+      "region": "오기쿠보·니시오기쿠보",
+      "name": "荻窪 Rooster",
+      "station": "오기쿠보 북쪽 약 5분",
+      "route": "신주쿠 → JR 오기쿠보 + 도보 약 25–35분",
+      "type": "라이브바·세션",
+      "genres": "재즈 / 블루스 / 라틴 / 컨트리",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공연 빈도 높음. 10월 예 18:00–18:30 / 19:00–19:30",
+      "price": "10월 공연 예 ¥4,000 + 주문; 세션은 별도",
+      "participation": "공식 블루스 세션·대관 안내 있음",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "세션 날 높음; 일반 공연은 감상 중심",
+      "status": "A",
+      "evidence": "공식 2026년 10월 일정·현재 주소",
+      "links": [
+        {
+          "label": "공식·세션",
+          "url": "https://www.ogikubo-rooster.com/"
+        },
+        {
+          "label": "10월 일정",
+          "url": "https://www.ogikubo-rooster.com/sch/sch2610.html"
+        }
+      ],
+      "notes": "현 주소는 上荻1-24-21. 과거 본점·NorthSide 구분에 주의."
+    },
+    {
+      "id": 18,
+      "region": "오기쿠보·니시오기쿠보",
+      "name": "西荻窪 ボイラー室",
+      "station": "니시오기쿠보 북쪽 약 2분 / 西荻北2-2-14",
+      "route": "신주쿠 → JR 니시오기쿠보 + 도보 약 25–35분",
+      "type": "소규모 공연 공간",
+      "genres": "월드뮤직 / 전통·어쿠스틱 악기",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별 운영. 표준 OPEN/START 미확인",
+      "price": "출연자 공지 예 ¥3,500 + 1D; 공연별 확인",
+      "participation": "출연·참여 조건 미확인",
+      "solo": "악기·월드뮤직에 관심 있으면 적합",
+      "exchange": "종연 후 대화 가능성은 있으나 행사·출연자에 따라 다름",
+      "status": "B",
+      "evidence": "2026년 아티스트·대학 행사 자료로 현 명칭 확인; 독립 공식 사이트 미발견",
+      "links": [
+        {
+          "label": "출연자 공식 일정",
+          "url": "https://ogitano.com/concert/"
+        },
+        {
+          "label": "현 명칭 행사 자료",
+          "url": "https://www.h.kobe-u.ac.jp/system/files/2026-03/event20260405.pdf"
+        },
+        {
+          "label": "이전 공간 종료 기록",
+          "url": "https://tsuboy.com/2025-3-29-oftb/"
+        }
+      ],
+      "notes": "이전 ‘音や金時’와 현 ‘ボイラー室’를 구분. 옛 가게 이름만으로 예약하지 말 것."
+    },
+    {
+      "id": 19,
+      "region": "시모키타자와",
+      "name": "下北沢 DY CUBE",
+      "station": "시모키타자와 / 北沢2-26-25",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "어쿠스틱 라이브하우스",
+      "genres": "싱어송라이터 / 기타·피아노 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "거의 매일 수준의 월간 일정. 예 18:25 / 18:45, 18:30 / 19:00. 주말 낮·밤",
+      "price": "일반 예 ¥2,400–3,000 + D ¥700",
+      "participation": "출연 문의는 공식 창구; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "종연 후 대화 가능성은 있으나 행사·출연자에 따라 다름",
+      "status": "A",
+      "evidence": "공식 2026년 9월 월간 일정",
+      "links": [
+        {
+          "label": "공식·공연 일정",
+          "url": "https://www.dycube.tokyo/schedule/"
+        }
+      ],
+      "notes": "공간 성격은 어쿠스틱에 맞지만 모든 날이 음악 공연은 아니다. 9/29는 평소 弾き語り와 다른 기획."
+    },
+    {
+      "id": 20,
+      "region": "시모키타자와",
+      "name": "下北沢 Laguna",
+      "station": "시모키타자와 / 北沢2-2-3",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "라이브바",
+      "genres": "어쿠스틱 / 인디 팝 / 싱어송라이터",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연 빈도 높음. 9월 예 18:10 / 18:40",
+      "price": "9월 표본 ¥3,000 / ¥3,500 + D; 2026년 6월 드링크 가격 개정 공지 있음",
+      "participation": "공식 출연 모집 확인; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "종연 후 대화 가능성은 있으나 행사·출연자에 따라 다름",
+      "status": "A",
+      "evidence": "공식 2026년 9–10월 공연·출연 모집",
+      "links": [
+        {
+          "label": "공식·일정·모집",
+          "url": "https://s-laguna.jp/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "region": "시모키타자와",
+      "name": "下北沢 BIG MOUTH",
+      "station": "시모키타자와 / 代沢5-6-14",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 25–40분",
+      "type": "어쿠스틱 라이브바",
+      "genres": "기타 싱어송라이터 / 포크",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "주 여러 날 공연. 9월 예 18:30 / 19:00",
+      "price": "9월 표본 ¥2,750–3,850 + D",
+      "participation": "출연은 공식 문의; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높을 가능성: 바 형태·반복 출연 프로그램",
+      "status": "A",
+      "evidence": "공식 9–10월 일정 링크 + 아티스트 9월 공연",
+      "links": [
+        {
+          "label": "공식·일정",
+          "url": "https://www.livebarbigmouth.com/"
+        },
+        {
+          "label": "9월 공연 표본",
+          "url": "https://asiasunrise.jp/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "region": "시모키타자와",
+      "name": "下北沢 lown",
+      "station": "시모키타자와 / 北沢2-34-8",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "라이브바",
+      "genres": "어쿠스틱 / 루츠 / 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별 운영. 예 18:30 / 19:00, 19:00 / 19:30",
+      "price": "최근 예 ¥2,500 + D; 특별 공연 ¥5,000 / ¥5,500 + D",
+      "participation": "공식 출연자 모집 안내 있음; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "교류 가능성 높음: 일부 공연은 뒤풀이 참가 안내",
+      "status": "B",
+      "evidence": "공식 모집 + 아티스트 2026년 9–10월 공지",
+      "links": [
+        {
+          "label": "공식·출연 모집",
+          "url": "https://lown.jp/"
+        },
+        {
+          "label": "10월 공연 근거",
+          "url": "https://kondotomohiro.com/live-schedule/schedule-2026-10/"
+        },
+        {
+          "label": "9월 공연 근거",
+          "url": "https://note.com/soulfrancisco/n/n8f4197db7b41"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "region": "시모키타자와",
+      "name": "下北沢 SEED SHIP",
+      "station": "시모키타자와 / 代沢5-32-13",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "어쿠스틱 공연 공간",
+      "genres": "싱어송라이터 / 피아노·기타",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별. 2026년 8월 표본 낮 15:00 / 15:30, 밤 19:00 / 19:30",
+      "price": "8월 특정 공연 예 ¥5,000 + D; 일반 가격으로 해석하지 말 것",
+      "participation": "현재 공개 참여·출연 조건 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "감상 중심; 교류는 공연별",
+      "status": "B",
+      "evidence": "새 공식 도메인 확인; 아티스트 2026년 8월 공연으로 보완",
+      "links": [
+        {
+          "label": "현 공식 사이트",
+          "url": "https://seedship.studio.site/"
+        },
+        {
+          "label": "공식 X",
+          "url": "https://x.com/seedship"
+        },
+        {
+          "label": "2026년 공연 근거",
+          "url": "https://www.higuchiai.com/post/sukinahito-2026"
+        }
+      ],
+      "notes": "옛 seed-ship.com은 현재 무관한 내용이므로 사용하지 않는다."
+    },
+    {
+      "id": 24,
+      "region": "시모키타자와",
+      "name": "下北沢 Bar?CCO",
+      "station": "시모키타자와",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "어쿠스틱 라이브바",
+      "genres": "싱어송라이터 / 루츠 / 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별. 예 18:30 / 19:00 또는 19:00 / 19:30",
+      "price": "2026년 표본 ¥2,000–5,500 + 2D ¥1,200; 팁 공연 별도",
+      "participation": "출연은 공식 문의; 팁 공연도 사전 편성일 수 있음",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "바형 공연이라 교류 가능성이 비교적 높음",
+      "status": "A",
+      "evidence": "공식 2026년 8월 일정·요금 표본",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://barcco.tokyo/"
+        },
+        {
+          "label": "공식 8월 일정",
+          "url": "https://barcco.tokyo/schedule/?mo=8&yr=2026"
+        }
+      ],
+      "notes": "2드링크 조건을 입장료와 합산할 것. ‘25장 한정’은 특정 공연 판매 수량이지 공인 정원이 아니다."
+    },
+    {
+      "id": 25,
+      "region": "시모키타자와",
+      "name": "下北沢 RHAPSODY",
+      "station": "시모키타자와",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "어쿠스틱 라이브바",
+      "genres": "포크 / 싱어송라이터 / 루츠",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별. 10월 표본 18:00 / 18:30",
+      "price": "10월 표본 ¥3,500 / ¥4,000 + 드링크권 ¥1,000",
+      "participation": "출연은 매장 문의; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "바형 공간이라 교류 가능성 있음",
+      "status": "B",
+      "evidence": "공식 사이트 접속 지연; 아티스트 공식 2026년 10월 일정",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://rhapsody.tokyo/"
+        },
+        {
+          "label": "10월 공연 근거",
+          "url": "https://abejulie.wixsite.com/abejulie/schedule"
+        },
+        {
+          "label": "공식 공연 배포",
+          "url": "https://twitcasting.tv/rhapsody422"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "region": "시모키타자와",
+      "name": "下北沢 440 / four forty",
+      "station": "시모키타자와",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "라이브바·공연장",
+      "genres": "어쿠스틱 / 루츠 / 팝 / 밴드",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 월간 공연. OPEN/START는 개별 일정 확인",
+      "price": "공연별 티켓·드링크 조건 확인",
+      "participation": "공식 상시 출연 모집: 연락처·SNS·영상 제출, 기획·대관 가능",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "감상 중심; 교류는 행사별",
+      "status": "B",
+      "evidence": "공식 현행 모집·2026년 공연 확인; 조사에서 당월 가격 범위 미집계",
+      "links": [
+        {
+          "label": "공식·일정",
+          "url": "https://440.tokyo/"
+        },
+        {
+          "label": "출연·시설",
+          "url": "https://440.tokyo/information/"
+        },
+        {
+          "label": "2026 공연 근거",
+          "url": "https://440.tokyo/schedule/260628/"
+        }
+      ],
+      "notes": "아주 작은 바와는 성격이 달라, 관심 아티스트의 어쿠스틱 날짜를 골라 방문."
+    },
+    {
+      "id": 27,
+      "region": "시모키타자와",
+      "name": "空飛ぶこぶたや",
+      "station": "시모키타자와 / 北沢2-19-17",
+      "route": "신주쿠 → 오다큐선 시모키타자와 + 도보 약 20–35분",
+      "type": "음식점·라이브 공간",
+      "genres": "포크 / 루츠 / 어쿠스틱",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "음식점 공연 기획. 6월 표본 18:00 / 19:00",
+      "price": "공연 예 ¥3,500 + D, 당일 +¥500",
+      "participation": "공개 오픈마이크·일반 출연 접수 조건 미확인",
+      "solo": "식사와 공연을 함께 즐기고 싶을 때 적합",
+      "exchange": "식음형 공간이라 대화 가능성 높음 추정",
+      "status": "B",
+      "evidence": "공식 사이트 접속 불안정; 아티스트 2026년 6·8월 공연 확인",
+      "links": [
+        {
+          "label": "공식",
+          "url": "http://www.kobuta.diet/"
+        },
+        {
+          "label": "2026 공연 근거",
+          "url": "https://inokashira.jp/live/260626/"
+        },
+        {
+          "label": "8월 공연 근거",
+          "url": "https://akibamasashi.amebaownd.com/posts/58914754/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "region": "키치조지·미타카",
+      "name": "吉祥寺 曼荼羅",
+      "station": "키치조지 남쪽 약 2분",
+      "route": "신주쿠 → JR 키치조지 + 도보 약 25–40분",
+      "type": "라이브하우스·참여형",
+      "genres": "포크 / 월드뮤직 / 재즈 / 시·낭독",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "정기·기획 공연 및 오픈마이크. 월례 공연 예 19:00 / 19:30",
+      "price": "공식 월례 예 ¥3,000 + D. 오픈마이크 관람 차지 없음·2주문, 출연비 ¥1,000(주문 조건 확인)",
+      "participation": "공식 오픈마이크·출연 모집 확인; 기타·피아노 대여 안내",
+      "solo": "참여형 날짜에는 혼자 방문하기 좋은 후보",
+      "exchange": "높음: 참여 프로그램·정기 시/음악 공연",
+      "status": "A",
+      "evidence": "현행 공식 정기 행사·오픈마이크·모집 안내",
+      "links": [
+        {
+          "label": "공식·일정·오픈마이크",
+          "url": "https://www.mandala-1.com/"
+        }
+      ],
+      "notes": "오픈마이크 개최일과 신청 방식은 직전 공지 확인. MANDA-LA2와 다른 공간."
+    },
+    {
+      "id": 29,
+      "region": "키치조지·미타카",
+      "name": "吉祥寺 MANDA-LA2",
+      "station": "키치조지 남쪽 / 吉祥寺南町2-8-6",
+      "route": "신주쿠 → JR 키치조지 + 도보 약 25–40분",
+      "type": "라이브하우스",
+      "genres": "포크 / 싱어송라이터 / 재즈·독립 음악",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "9월 20일 이상 공연 게재. START 19:30 중심, 18:30–19:00도 있음",
+      "price": "10월 특정 공연 예 ¥4,000 / ¥4,500 + D; 공연마다 다름",
+      "participation": "출연·대관 문의 가능; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "정기 공연을 반복 방문하면 관계 형성 여지",
+      "status": "A",
+      "evidence": "공식 2026년 9월 달력·10월 공연",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://www.manda-la2.com/"
+        },
+        {
+          "label": "공식 공연 일정",
+          "url": "https://www.manda-la2.com/schedule-1"
+        }
+      ],
+      "notes": "월례·생일·환갑 공연이 함께 편성되어, 연령과 무관한 장기 음악 활동을 관찰하기 좋다."
+    },
+    {
+      "id": 30,
+      "region": "키치조지·미타카",
+      "name": "三鷹 おんがくのじかん",
+      "station": "미타카 남쪽 / 下連雀3-32-4",
+      "route": "신주쿠 → JR 미타카 + 도보 약 30–45분",
+      "type": "소규모 독립 음악 공간",
+      "genres": "인디 / 포크 / 실험 / 즉흥",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공연별. 2026년 8월 표본 13:00 / 13:30; 밤 공연도 있음",
+      "price": "공연별. 대관 광고 최저액은 시간·조건이 달라 일반 공연 비용으로 쓰지 않음",
+      "participation": "공식 공연·기획 신청 안내 및 대관. 공개 오픈마이크는 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "기획·공동 출연을 통해 교류할 여지가 큼",
+      "status": "B",
+      "evidence": "공식 2026년 게시·공식 티켓 창구 확인; 9월 월간 본문 미취득",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://ongakunojikan.com/"
+        },
+        {
+          "label": "공식 티켓 창구",
+          "url": "https://tiget.net/users/734661"
+        }
+      ],
+      "notes": "장르와 공연 방식의 자율성이 관심에 맞는지 개별 프로그램을 먼저 볼 것."
+    },
+    {
+      "id": 31,
+      "region": "키치조지·미타카",
+      "name": "吉祥寺 Silver Elephant",
+      "station": "키치조지 북쪽",
+      "route": "신주쿠 → JR 키치조지 + 도보 약 30–40분",
+      "type": "라이브하우스",
+      "genres": "프로그레시브 록 / 연주 음악 / 일부 어쿠스틱",
+      "fit": 1,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 월간 일정 운영. 표본 17:30 / 18:00",
+      "price": "특정 공연 예 ¥4,000 + D ¥600; 공연별 확인",
+      "participation": "공식 출연 신청: 음원·프로필 등 문의",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "음악 취향이 맞는 공연에서 교류 가능",
+      "status": "A",
+      "evidence": "공식 2026년 9월 공연 일정·출연 모집",
+      "links": [
+        {
+          "label": "공식·모집",
+          "url": "https://www.silver-elephant.com/"
+        },
+        {
+          "label": "일정",
+          "url": "https://silver-elephant.com/schedules"
+        }
+      ],
+      "notes": "기타 弾き語り의 우선순위는 낮지만 작은 전문 장르 생태계의 비교 대상."
+    },
+    {
+      "id": 32,
+      "region": "키치조지·미타카",
+      "name": "吉祥寺 NEPO",
+      "station": "키치조지·미타카 권역",
+      "route": "신주쿠 → JR 키치조지 또는 미타카 + 도보 약 35–50분",
+      "type": "라이브하우스",
+      "genres": "인디 / 얼터너티브 / 실험 / 일부 어쿠스틱",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "10월 다수 공연. 낮·밤 기획 모두 있음",
+      "price": "공연별 티켓·드링크 확인",
+      "participation": "출연·기획 문의는 공식 창구; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "기획별로 다름",
+      "status": "A",
+      "evidence": "공식 2026년 10월 일정에 어쿠스틱 프로그램 확인",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://nepo.co.jp/"
+        },
+        {
+          "label": "10월 일정",
+          "url": "https://nepo.co.jp/schedules/index/2026/10/"
+        }
+      ],
+      "notes": "가까운 역과 도보 경로는 공식 접근 안내 재확인. 일반 밴드 공연을 어쿠스틱 공연으로 오해하지 말 것."
+    },
+    {
+      "id": 33,
+      "region": "요요기·하라주쿠·시부야",
+      "name": "GRAPES KITASANDO",
+      "station": "기타산도 3분 / 요요기 7분",
+      "route": "신주쿠 → 요요기 + 도보 약 15–25분",
+      "type": "테이블형 라이브 공간",
+      "genres": "피아노·기타 싱어송라이터 / 팝",
+      "fit": 3,
+      "capacity": "50석 미만 · 전석 테이블 · 공식",
+      "times": "월간 다수 공연. 예 18:00 / 18:30 또는 19:00 / 19:30",
+      "price": "예 ¥3,500–5,500 + 필수 1drink·1snack ¥1,000 이상",
+      "participation": "공식 출연·예약 창구 있음; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "공연 감상 중심; 교류는 행사별",
+      "status": "A",
+      "evidence": "공식 2026년 9월 말–10월 일정·시설·주문 조건",
+      "links": [
+        {
+          "label": "공식·일정·시설",
+          "url": "https://kitasando.grapes.tokyo/"
+        }
+      ],
+      "notes": "추가 주문 조건까지 합치면 저가 오픈마이크와 예산 차이가 크다."
+    },
+    {
+      "id": 34,
+      "region": "요요기·하라주쿠·시부야",
+      "name": "代々木 Barbara",
+      "station": "요요기",
+      "route": "신주쿠 → JR 요요기 + 도보 약 15–25분",
+      "type": "라이브하우스",
+      "genres": "싱어송라이터 / 밴드 / 다장르 기획",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "9월 다수 행사. 예 18:00 / 18:30, 18:30 / 19:00",
+      "price": "예 ¥3,000 / ¥3,500 + D ¥700; 날짜별 금액 우선",
+      "participation": "출연·기획은 공식 문의; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "행사별로 다름",
+      "status": "A",
+      "evidence": "공식 2026년 9월 행사 목록",
+      "links": [
+        {
+          "label": "공식 공연 일정",
+          "url": "https://barbara.omatsuri.tech/events"
+        }
+      ],
+      "notes": "어쿠스틱 공연과 다른 장르·토크 기획을 구분."
+    },
+    {
+      "id": 35,
+      "region": "요요기·하라주쿠·시부야",
+      "name": "原宿 ストロボカフェ",
+      "station": "하라주쿠 약 2분 / 神宮前1-20-13",
+      "route": "신주쿠 → JR 하라주쿠 + 도보 약 15–25분",
+      "type": "카페형 공연장",
+      "genres": "싱어송라이터 / 팝 / 어쿠스틱",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 10–11월 공연 일정 있음. 시간은 개별 공연",
+      "price": "공연별 티켓·드링크 확인",
+      "participation": "공식 대관 안내 있음; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "공연 감상 중심",
+      "status": "A",
+      "evidence": "공식 2026년 10–11월 공연·현재 주소",
+      "links": [
+        {
+          "label": "공식·일정·대관",
+          "url": "https://www.strobe-cafe.com/"
+        }
+      ],
+      "notes": "현재 확인한 공간은 하라주쿠점. 옛 기타산도점 정보와 혼동하지 말 것. 일반 카페 영업과도 다르다."
+    },
+    {
+      "id": 36,
+      "region": "요요기·하라주쿠·시부야",
+      "name": "渋谷 gee-ge.",
+      "station": "시부야",
+      "route": "신주쿠 → JR 시부야 + 도보 약 25–40분",
+      "type": "라이브 공간",
+      "genres": "싱어송라이터 / 피아노·기타 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "2026년 8월 표본 19:00 / 19:30; 월간 빈도 미확인",
+      "price": "현재 일반 가격대 미확인; 개별 공연 확인",
+      "participation": "공개 참여·출연 조건 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "공연 감상 중심; 행사별 교류",
+      "status": "B",
+      "evidence": "공식 사이트 접속 지연; 아티스트 공식 2026년 8월 공연 확인",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://www.gee-ge.net/"
+        },
+        {
+          "label": "2026년 공연 근거",
+          "url": "https://www.higuchiai.com/post/sukinahito-2026"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "池袋 FIELD",
+      "station": "이케부쿠로 서쪽",
+      "route": "신주쿠 → JR 이케부쿠로 + 도보 약 20–35분",
+      "type": "라이브하우스·참여형",
+      "genres": "싱어송라이터 / 기타·피아노 / 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "매주 월요일(공휴일 제외) 오픈마이크 19:00–22:00; 정규 공연도 있음",
+      "price": "오픈마이크 예 ¥1,500 + D ¥500 / 사전 할인 예 ¥1,000 + D ¥500. 일반 공연 예 ¥2,000 + D",
+      "participation": "공식 오픈마이크·출연 모집·세미나·대관 확인",
+      "solo": "초보자도 곡을 준비하거나 관람 조건을 문의하기 좋은 후보",
+      "exchange": "높음: 반복 참여·출연자 육성 프로그램",
+      "status": "A",
+      "evidence": "공식 2026년 9–10월 일정·가격 개정·정기 프로그램",
+      "links": [
+        {
+          "label": "공식·참여·출연",
+          "url": "https://www.field-live.com/"
+        },
+        {
+          "label": "공식 10월 일정",
+          "url": "https://www.field-live.com/複製-スケジュール"
+        }
+      ],
+      "notes": "2026년 6월 소프트드링크 환급은 종료. 드링크 기본 ¥500은 유지 안내."
+    },
+    {
+      "id": 38,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "板橋ファイト!",
+      "station": "이타바시 / 板橋1-22-7",
+      "route": "신주쿠 → JR 사이쿄선 이타바시 + 도보 약 20–35분",
+      "type": "소형 대관 공연장",
+      "genres": "어쿠스틱 / 싱어송라이터 / 기획 공연",
+      "fit": 3,
+      "capacity": "24–30석 · 스탠딩 불가 · 공식",
+      "times": "9–10월 공연 달력 있음. 낮·밤 대관; 실제 개장·개연은 행사별",
+      "price": "관람료는 기획별 + D ¥600. 대관 기본 ¥33,000",
+      "participation": "일반 매장 부킹 없음; 직접 기획·대관 중심. 밴드는 원맨 조건",
+      "solo": "좌석형 감상에 적합",
+      "exchange": "주최자가 교류 구조를 만들기 좋은 규모",
+      "status": "A",
+      "evidence": "공식 2026년 9–10월 달력·이용 조건",
+      "links": [
+        {
+          "label": "공식·달력",
+          "url": "https://www.itabashifight.com/"
+        },
+        {
+          "label": "이용·대관 조건",
+          "url": "https://www.itabashifight.com/ご利用条件"
+        }
+      ],
+      "notes": "대관 잔여일 없음과 관객 티켓 매진은 서로 다른 뜻."
+    },
+    {
+      "id": 39,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "水道橋 Words",
+      "station": "스이도바시",
+      "route": "신주쿠 → JR 소부선 스이도바시 + 도보 약 25–40분",
+      "type": "어쿠스틱 라이브하우스",
+      "genres": "싱어송라이터 / 기타·피아노 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "9월 다수 공연. 18:00 / 18:30 또는 18:30 / 19:00; 주말 낮도 있음",
+      "price": "일반 합동 예 ¥2,300–2,800 + 1주문; 특별 공연 ¥3,000–4,500",
+      "participation": "공식 BOOKING·대관 창구 있음; 공개 오픈마이크 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "종연 후 대화 가능성은 있으나 행사·출연자에 따라 다름",
+      "status": "A",
+      "evidence": "공식 2026년 9월 월간 일정",
+      "links": [
+        {
+          "label": "공식 9월 일정·출연",
+          "url": "https://suidobashi-words.com/schedule/202609/"
+        }
+      ],
+      "notes": "관심 가수 발견과 동시대 싱어송라이터 공연 편성을 보기 좋은 곳."
+    },
+    {
+      "id": 40,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "leaf room 豪徳寺",
+      "station": "고토쿠지 약 1분 / 야마시타 약 2분",
+      "route": "신주쿠 → 오다큐선 고토쿠지 + 도보 약 25–40분",
+      "type": "라이브바",
+      "genres": "포크 / 어쿠스틱 / 싱어송라이터",
+      "fit": 3,
+      "capacity": "최대 50명 · 공식 안내, 배치별 재확인",
+      "times": "공식 일정 페이지 운영. 일반 OPEN/START 범위 미확인",
+      "price": "공연별 티켓·드링크 확인",
+      "participation": "공연·출연은 공식 메일 문의. 현재 오픈마이크 조건 미확인",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "높을 가능성: 음악가 운영·바형 공간",
+      "status": "B",
+      "evidence": "공식 시설·연락처 확인; 당월 달력 세부 본문 미취득",
+      "links": [
+        {
+          "label": "공식",
+          "url": "https://leafroomgoutokuji.jimdofree.com/"
+        },
+        {
+          "label": "공식 일정",
+          "url": "https://leafroomgoutokuji.jimdofree.com/schedule/"
+        }
+      ],
+      "notes": "확정 방문 전 날짜별 공지를 확인."
+    },
+    {
+      "id": 41,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "祖師ヶ谷大蔵 MURIWUI / ムリウイ",
+      "station": "소시가야오쿠라 / 祖師谷4-1-22",
+      "route": "신주쿠 → 오다큐선 소시가야오쿠라 + 도보 약 35–50분",
+      "type": "옥상 공연·문화 공간",
+      "genres": "실험 / 월드뮤직 / 즉흥 / 어쿠스틱",
+      "fit": 2,
+      "capacity": "공식 면적 약 30평(절반 테라스); 객석 정원 미확인",
+      "times": "행사일 중심. 일반 카페 영업은 2023년 여름 종료",
+      "price": "행사별 요금·주문·팁 조건 확인",
+      "participation": "기획·출연 문의는 공식 메일; 공개 오픈마이크 미확인",
+      "solo": "독특한 공연을 혼자 감상하기 좋은 후보",
+      "exchange": "기획별 교류 여지가 있음",
+      "status": "B",
+      "evidence": "공식 현행 사이트와 연결된 행사 채널 확인; 당월 개별 공연 미검증",
+      "links": [
+        {
+          "label": "공식·운영 변경",
+          "url": "https://www.ne.jp/asahi/cafe/muriwui/"
+        },
+        {
+          "label": "공식 행사 채널",
+          "url": "https://note.com/muriwui/m/m946b082b966c"
+        }
+      ],
+      "notes": "일반 카페 영업 종료와 음악 공간 폐업을 혼동하지 말 것."
+    },
+    {
+      "id": 42,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "江古田マーキー / Marquee",
+      "station": "에코다 / 신에고다 권역",
+      "route": "신주쿠 → 오에도선 신에고다 + 도보 약 25–40분",
+      "type": "소규모 라이브하우스",
+      "genres": "포크 / 싱어송라이터 / 팝",
+      "fit": 3,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 10–12월 티켓 발매 공지. 시간은 공연별",
+      "price": "공연별 티켓·D 조건 확인; 일반 가격 범위 미집계",
+      "participation": "공식 아티스트 모집 안내 있음",
+      "solo": "공연 감상 목적의 혼자 방문에 적합한 편",
+      "exchange": "정기 방문·출연을 통한 교류 여지",
+      "status": "A",
+      "evidence": "공식 2026년 10–12월 공연 발매 안내",
+      "links": [
+        {
+          "label": "공식·예매 일정",
+          "url": "https://marquee-e.jp/maeuri.html"
+        },
+        {
+          "label": "출연 안내",
+          "url": "https://marquee-e.jp/info.html"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": 43,
+      "region": "그 밖의 접근 가능한 지역",
+      "name": "江古田 Cafe FLYING TEAPOT",
+      "station": "에코다 / 練馬区栄町27-7",
+      "route": "신주쿠 → 오에도선 신에고다 + 도보 약 30–45분",
+      "type": "카페·독립 공연 공간",
+      "genres": "실험 / 즉흥 / 포크 / 전시",
+      "fit": 2,
+      "capacity": "공식 수치 미확인",
+      "times": "공식 9–10월 일정. 9월 공연 예 19:00 / 19:30. 화 휴무·일요일 행사만",
+      "price": "9월 표본 ¥1,500 + 주문; 행사별 다름",
+      "participation": "현재 출연·참여는 공식 문의",
+      "solo": "실험·즉흥 음악에 관심 있으면 적합",
+      "exchange": "기획별 교류 여지",
+      "status": "A",
+      "evidence": "공식 2026년 9–10월 프로그램 및 폐점 예고 확인",
+      "links": [
+        {
+          "label": "공식·공연",
+          "url": "https://flyingteapot1997.wixsite.com/ekoda-flying-teapot"
+        },
+        {
+          "label": "공식 종료 예고",
+          "url": "https://flyingteapot1997.wixsite.com/ekoda-flying-teapot/blank"
+        }
+      ],
+      "notes": "운영 중이나 2027년 2월 말 일반 카페 종료, 2027년 3월 13일 완전 폐점 예정 공지. 장기 거점 후보와 구분."
+    }
+  ]
+}
